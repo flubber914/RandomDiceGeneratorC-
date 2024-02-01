@@ -1,0 +1,3 @@
+﻿  GameProgrammingWorkshopTask3.cpp
+C:\Users\Computing\source\repos\GameProgrammingWorkshopTask3\GameProgrammingWorkshopTask3\GameProgrammingWorkshopTask3.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameProgrammingWorkshopTask3.vcxproj -> C:\Users\Computing\source\repos\GameProgrammingWorkshopTask3\x64\Debug\GameProgrammingWorkshopTask3.exe
